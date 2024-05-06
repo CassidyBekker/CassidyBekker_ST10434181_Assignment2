@@ -17,6 +17,6 @@ The application is essentially a game that was previously known as a Tamagotchi 
 
 ----------------------------------------
 Additional Links:
-YouTube Video - 
+YouTube Video - https://youtu.be/fIWzuQY5i-E 
 
 ----------------------------------------
