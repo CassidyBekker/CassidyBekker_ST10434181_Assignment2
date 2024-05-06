@@ -4,12 +4,19 @@ IMAD Assignment 2 - Tamagotchi Application
 Steps to follow:
 
 Step 1 - Download my Tamagotchi App
+
 Step 2 - Once downloaded, Open up the application and meet your new pet, Reggie!
+
 Step 3 - Follow the bottom button that says "Get Started!" to start playing with your pet, Reggie
+
 Step 4 - Explore the game by taking a look at the different action buttons that you can use, choose a button and click on it
+
 Step 5 - Click on the button as many times as you want or until the bar is full, (this means your pet is fully satisfied!)
+
 Step 6 - Play around with Reggie for as long as you like, but don't forget, his satisfaction (the progress bar) will deplete so keep playing with the buttons by clicking them
+
 If you are done playing the Reggie:
+
 6 - Close the application and see you next time!
 
 ----------------------------------------
