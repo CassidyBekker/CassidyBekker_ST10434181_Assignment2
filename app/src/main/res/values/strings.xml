@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyIMAD_Project2</string>
-    <string name="Heading">Welcome to your Tamagotchi App. Meet Reggie!</string>
+    <string name="Heading">Meet your new best friend, Reginald. But you can call him Reggie!</string>
     <string name="Button1">Get Started!</string>
     <string name="Button2">FEED</string>
     <string name="Button3">CLEAN</string>
@@ -8,4 +8,5 @@
     <string name="HungryTV">Hunger</string>
     <string name="CleanTV">Cleanliness</string>
     <string name="HappyTV">Happiness</string>
+    <string name="SpeechBubble">Nice to meet you!</string>
 </resources>
